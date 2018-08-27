@@ -1,0 +1,3 @@
+secret-vars.tf
+terraform.tfstate*
+.terraform*
