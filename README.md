@@ -6,6 +6,11 @@ Requirements
 -	[Terraform](https://www.terraform.io/downloads.html) 0.10.x
 
 
+Special Thanks
+---------------
+https://github.com/clstokes/example-terraform-bastion
+
+
 Using this repository
 ----------------------
 
