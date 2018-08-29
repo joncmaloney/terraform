@@ -10,6 +10,8 @@ Special Thanks
 ---------------
 https://github.com/clstokes/example-terraform-bastion
 
+https://github.com/KyleMartin901/terraform_up_and_running
+
 
 Using this repository
 ----------------------
